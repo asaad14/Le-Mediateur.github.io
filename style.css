@@ -117,6 +117,7 @@ nav .fa{
 }
     .nav-links ul li:hover::after{
     width: none;
+    }
     .text-box h1{
         font-size: 20px;
     }
