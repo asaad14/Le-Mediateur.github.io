@@ -106,7 +106,9 @@ nav .fa{
 }
 
 @media(max-width: 700px){
-    .hero-btn:hover{
+.hero-btn:hover{
+    border: none;
+    background: none;
     transition: 1s;
     }
     .text-box h1{
