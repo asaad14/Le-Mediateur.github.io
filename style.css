@@ -115,6 +115,8 @@ nav .fa{
     margin: auto;
     transition: 0.5s;
 }
+    .nav-links ul li:hover::after{
+    width: none;
     .text-box h1{
         font-size: 20px;
     }
